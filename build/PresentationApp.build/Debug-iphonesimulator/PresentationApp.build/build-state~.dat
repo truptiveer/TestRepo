@@ -1,0 +1,657 @@
+TPresentationApp
+v7
+r0
+t332314524.142567
+cCheck dependencies
+cProcessInfoPlistFile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist PresentationApp-Info.plist
+cCompileXIB /users/atul/programming/iphone/PresentationApp/MainWindow.xib
+cCompileXIB /users/atul/programming/iphone/PresentationApp/RootViewController.xib
+cCompileXIB /users/atul/programming/iphone/PresentationApp/Classes/iPhoneView.xib
+cCompileXIB /users/atul/programming/iphone/PresentationApp/Resources-iPad/MainWindow-iPad.xib
+cCompileXIB /users/atul/programming/iphone/PresentationApp/RootViewController-iPad.xib
+cCompileXIB /users/atul/programming/iphone/PresentationApp/iPadView.xib
+cProcessPCH /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch.gch PresentationApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o /users/atul/programming/iphone/PresentationApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o /users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o /users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/NextViewController.o /users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp normal i386
+cGenerateDSYMFile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+cTouch /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004DC0FFE30000000000000132
+t1304494051
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.h
+c000000004E1E761300000000000001E4
+t1310619155
+s484
+i<UIKit/UIKit.h>
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m
+c000000004E1E76130000000000000AB6
+t1310619155
+s2742
+i"PresentationAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.h
+c000000004E1E7836000000000000012A
+t1310619702
+s298
+i<UIKit/UIKit.h>
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m
+c000000004E1E783F0000000000000762
+t1310619711
+s1890
+i"RootViewController.h"
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.h
+c000000004E1E78DC000000000000010E
+t1310619868
+s270
+i<UIKit/UIKit.h>
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m
+c000000004E1E78C600000000000005A9
+t1310619846
+s1449
+i"iPhoneViewController.h"
+
+N/Users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+c000000004E1E78C60000000000001877
+t1310619846
+s6263
+
+N/Users/atul/programming/iphone/PresentationApp/MainWindow.xib
+c000000004E1E774D00000000000061A7
+t1310619469
+s24999
+
+N/Users/atul/programming/iphone/PresentationApp/PresentationApp_Prefix.pch
+c000000004E1E76130000000000000150
+t1310619155
+s336
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/atul/programming/iphone/PresentationApp/RootViewController.xib
+c000000004E1E785B0000000000004552
+t1310619739
+s17746
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+t1310619712
+s238
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM
+t1310619712
+s102
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist
+t1310619210
+s629
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/MainWindow.nib
+t1310619484
+s1568
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PkgInfo
+t1310619210
+s8
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+t1310619712
+s17808
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/RootViewController.nib
+t1310619615
+s1319
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPhoneView.nib
+t2
+s0
+
+N/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPhoneViewController.nib
+t2
+s0
+
+N/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationApp.LinkFileList
+c000000004E1E764A00000000000001DA
+t1310619210
+s474
+
+N/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o
+t1310619702
+s49832
+
+N/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o
+t1310619712
+s35512
+
+N/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/iPhoneViewController.o
+t2
+s0
+
+N/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o
+t1310619212
+s6320
+
+N/Users/atul/programming/iphone/PresentationApp/iPhoneView.xib
+c000000004E1E787C0000000000001643
+t1310619772
+s5699
+
+N/Users/atul/programming/iphone/PresentationApp/main.m
+c000000004E1E7613000000000000016A
+t1310619155
+s362
+i<UIKit/UIKit.h>
+
+N/users/atul/programming/iphone/PresentationApp/Classes/NextViewController.h
+c000000004E1E7C4600000000000000E9
+t1310620742
+s233
+i<UIKit/UIKit.h>
+
+N/users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m
+c000000004E1E7DC00000000000000613
+t1310621120
+s1555
+i"NextViewController.h"
+
+N/users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.h
+c000000004E1E761300000000000001E4
+t1310619155
+s484
+i<UIKit/UIKit.h>
+
+N/users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m
+c000000004E1E76130000000000000AB6
+t1310619155
+s2742
+i"PresentationAppAppDelegate.h"
+i"RootViewController.h"
+
+N/users/atul/programming/iphone/PresentationApp/Classes/RootViewController.h
+c000000004E1E7D49000000000000012A
+t1310621001
+s298
+i<UIKit/UIKit.h>
+
+N/users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m
+c000000004E1E7FDC00000000000009B5
+t1310621660
+s2485
+i"RootViewController.h"
+i"NextViewController.h"
+
+N/users/atul/programming/iphone/PresentationApp/Classes/iPhoneView.xib
+c000000004E1E7E720000000000003918
+t1310621298
+s14616
+
+N/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.h
+c000000004E1E79DD00000000000000EE
+t1310620125
+s238
+i<UIKit/UIKit.h>
+
+N/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m
+c000000004E1E78C600000000000005A9
+t1310619846
+s1449
+i"iPhoneViewController.h"
+
+N/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+c000000004E1E7A0500000000000018AD
+t1310620165
+s6317
+
+N/users/atul/programming/iphone/PresentationApp/MainWindow.xib
+c000000004E1E774D00000000000061A7
+t1310619469
+s24999
+
+N/users/atul/programming/iphone/PresentationApp/PresentationApp_Prefix.pch
+c000000004E1E76130000000000000150
+t1310619155
+s336
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/users/atul/programming/iphone/PresentationApp/Resources-iPad/MainWindow-iPad.xib
+c000000004E1E7FA200000000000064D9
+t1310621602
+s25817
+
+N/users/atul/programming/iphone/PresentationApp/RootViewController-iPad.xib
+c000000004E1E7D8C0000000000004A42
+t1310621068
+s19010
+
+N/users/atul/programming/iphone/PresentationApp/RootViewController.xib
+c000000004E1E7D790000000000004AB6
+t1310621049
+s19126
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+t1310621724
+s374
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM
+t1310621724
+s102
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist
+t1310621721
+s679
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/MainWindow-iPad.nib
+t1310621722
+s1546
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/MainWindow.nib
+t1310621722
+s1568
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PkgInfo
+t1310621721
+s8
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+t1310621724
+s19108
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/RootViewController-iPad.nib
+t1310621722
+s1445
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/RootViewController.nib
+t1310621722
+s1447
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPadView.nib
+t1310621722
+s663
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPhoneView.nib
+t1310621722
+s764
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPhoneViewController.nib
+t1310620515
+s764
+
+N/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/NextViewController.o
+t1310621724
+s35840
+
+N/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationApp.LinkFileList
+c000000004E1E8019000000000000027A
+t1310621721
+s634
+
+N/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o
+t1310621724
+s49832
+
+N/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o
+t1310621724
+s38204
+
+N/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/iPhoneViewController.o
+t1310620516
+s34592
+
+N/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o
+t1310621724
+s6320
+
+N/users/atul/programming/iphone/PresentationApp/iPadView.xib
+c000000004E1E7E830000000000003839
+t1310621315
+s14393
+
+N/users/atul/programming/iphone/PresentationApp/main.m
+c000000004E1E7613000000000000016A
+t1310619155
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch.gch
+t1310621723
+s15232016
+
+N/var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch.gch
+t1310619211
+s15232016
+
+NPresentationApp-Info.plist
+c000000004E1E7AF900000000000003CE
+t1310620409
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332314521#332314521#0(0"0(0#1#0"8620567584#0"0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/NextViewController.o /users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332314524.013226
+e332314524.097073
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/NextViewController.o
+x/users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m332314524#332314524#0(0"0(0#0#75"/users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m8620659232#2185"    cd /users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch -c /users/atul/programming/iphone/PresentationApp/Classes/NextViewController.m -o /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/NextViewController.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o /Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332312502.912558
+e332312502.984378
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o
+x/Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m332312502#332312502#0(0"0(0#0#83"/Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m8613695456#2201"    cd /Users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch -c /Users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m -o /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o /users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332314524.011206
+e332314524.102220
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o
+x/users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m332314524#332314524#0(0"0(0#0#83"/users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m8621499488#2201"    cd /users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch -c /users/atul/programming/iphone/PresentationApp/Classes/PresentationAppAppDelegate.m -o /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationAppAppDelegate.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o /Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332312512.004629
+e332312512.058369
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o
+x/Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m332312512#332312512#0(0"0(0#0#75"/Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m8611502592#2185"    cd /Users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch -c /Users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m -o /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o /users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332314524.012074
+e332314524.097693
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o
+x/users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m332314524#332314524#0(0"0(0#0#75"/users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m8621017088#2185"    cd /users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch -c /users/atul/programming/iphone/PresentationApp/Classes/RootViewController.m -o /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/iPhoneViewController.o /Users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/iPhoneViewController.o /users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332313315.935771
+e332313316.016462
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/iPhoneViewController.o
+x/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m332313315#332313316#0(0"0(0#0#77"/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m8613588672#2189"    cd /users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch -c /users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.m -o /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/iPhoneViewController.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o /Users/atul/programming/iphone/PresentationApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332312011.990449
+e332312012.050221
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o
+x/Users/atul/programming/iphone/PresentationApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/atul/programming/iphone/PresentationApp/main.m332312011#332312012#0(0"0(0#0#53"/Users/atul/programming/iphone/PresentationApp/main.m8614679904#2149"    cd /Users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch -c /Users/atul/programming/iphone/PresentationApp/main.m -o /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o /users/atul/programming/iphone/PresentationApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332314524.010090
+e332314524.077752
+r1
+xCompileC
+xbuild/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o
+x/users/atul/programming/iphone/PresentationApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /users/atul/programming/iphone/PresentationApp/main.m332314524#332314524#0(0"0(0#0#53"/users/atul/programming/iphone/PresentationApp/main.m8621755552#2149"    cd /users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -include /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch -c /users/atul/programming/iphone/PresentationApp/main.m -o /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+r0
+
+CCompileXIB /Users/atul/programming/iphone/PresentationApp/MainWindow.xib
+s332312284.116388
+e332312284.513203
+r1
+xCompileXIB
+x/Users/atul/programming/iphone/PresentationApp/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib332312284#332312284#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/atul/programming/iphone/PresentationApp/MainWindow.xib8604070816#602"    cd /Users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/MainWindow.nib /Users/atul/programming/iphone/PresentationApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/atul/programming/iphone/PresentationApp/RootViewController.xib
+s332312415.541527
+e332312415.948390
+r1
+xCompileXIB
+x/Users/atul/programming/iphone/PresentationApp/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib332312415#332312415#0(0"0(0#0#69"/Users/atul/programming/iphone/PresentationApp/RootViewController.xib8614381248#618"    cd /Users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/RootViewController.nib /Users/atul/programming/iphone/PresentationApp/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/atul/programming/iphone/PresentationApp/iPhoneView.xib
+r0
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/Classes/iPhoneView.xib
+s332314521.911945
+e332314522.507612
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/Classes/iPhoneView.xib
+lSLF07#2@33"CompileXIB Classes/iPhoneView.xib332314521#332314522#0(0"0(0#0#69"/users/atul/programming/iphone/PresentationApp/Classes/iPhoneView.xib8618570944#610"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPhoneView.nib /users/atul/programming/iphone/PresentationApp/Classes/iPhoneView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+s332313314.645984
+e332313315.122599
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+lSLF07#2@43"CompileXIB Classes/iPhoneViewController.xib332313314#332313315#0(0"0(0#0#79"/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib8611671744#630"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPhoneViewController.nib /users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/MainWindow.xib
+s332314521.910122
+e332314522.535712
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332314521#332314522#0(0"0(0#0#61"/users/atul/programming/iphone/PresentationApp/MainWindow.xib8620530272#602"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/MainWindow.nib /users/atul/programming/iphone/PresentationApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/Resources-iPad/MainWindow-iPad.xib
+s332314521.912834
+e332314522.517120
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib332314521#332314522#0(0"0(0#0#81"/users/atul/programming/iphone/PresentationApp/Resources-iPad/MainWindow-iPad.xib8613519424#627"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/MainWindow-iPad.nib /users/atul/programming/iphone/PresentationApp/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/RootViewController-iPad.xib
+s332314522.507794
+e332314522.960502
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/RootViewController-iPad.xib
+lSLF07#2@38"CompileXIB RootViewController-iPad.xib332314522#332314522#0(0"0(0#0#74"/users/atul/programming/iphone/PresentationApp/RootViewController-iPad.xib8620539808#628"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/RootViewController-iPad.nib /users/atul/programming/iphone/PresentationApp/RootViewController-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/RootViewController.xib
+s332314521.911054
+e332314522.643510
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib332314521#332314522#0(0"0(0#0#69"/users/atul/programming/iphone/PresentationApp/RootViewController.xib8619848768#618"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/RootViewController.nib /users/atul/programming/iphone/PresentationApp/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/iPadView.xib
+s332314522.517261
+e332314522.915479
+r1
+xCompileXIB
+x/users/atul/programming/iphone/PresentationApp/iPadView.xib
+lSLF07#2@23"CompileXIB iPadView.xib332314522#332314522#0(0"0(0#0#59"/users/atul/programming/iphone/PresentationApp/iPadView.xib8620419488#598"    cd /users/atul/programming/iphone/PresentationApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/iPadView.nib /users/atul/programming/iphone/PresentationApp/iPadView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+s332312512.078759
+e332312512.093716
+r1
+xGenerateDSYMFile
+x/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM
+x/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/PresentationApp.app.dSYM build/Debug-iphonesimulator/PresentationApp.app/PresentationApp332312512#332312512#0(0"0(0#0#110"/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp8613536352#431"    cd /Users/atul/programming/iphone/PresentationApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp -o /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM0#
+
+CGenerateDSYMFile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+s332314524.123109
+e332314524.138612
+r1
+xGenerateDSYMFile
+x/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM
+x/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/PresentationApp.app.dSYM build/Debug-iphonesimulator/PresentationApp.app/PresentationApp332314524#332314524#0(0"0(0#0#110"/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp8618780672#431"    cd /users/atul/programming/iphone/PresentationApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp -o /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app.dSYM0#
+
+CLd /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp normal i386
+s332312512.058470
+e332312512.078642
+r1
+xLd
+x/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+xnormal
+xi386
+lSLF07#2@115"Link /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp332312512#332312512#0(0"0(0#0#0"8615091904#980"    cd /Users/atul/programming/iphone/PresentationApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -F/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -filelist /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp0#
+
+CLd /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp normal i386
+s332314524.102315
+e332314524.123004
+r1
+xLd
+x/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp
+xnormal
+xi386
+lSLF07#2@115"Link /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp332314524#332314524#0(0"0(0#0#0"8620024992#980"    cd /users/atul/programming/iphone/PresentationApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -filelist /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/Objects-normal/i386/PresentationApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework UIKit -o /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PresentationApp0#
+
+CProcessInfoPlistFile /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist PresentationApp-Info.plist
+s332312010.769721
+e332312010.793290
+r1
+xProcessInfoPlistFile
+x/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist
+xPresentationApp-Info.plist
+lSLF07#2@34"Process PresentationApp-Info.plist332312010#332312010#0(0"0(0#0#73"/Users/atul/programming/iphone/PresentationApp/PresentationApp-Info.plist8615211136#527"    cd /Users/atul/programming/iphone/PresentationApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PresentationApp-Info.plist -genpkginfo /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist0#
+
+CProcessInfoPlistFile /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist PresentationApp-Info.plist
+s332314521.906111
+e332314521.910036
+r1
+xProcessInfoPlistFile
+x/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist
+xPresentationApp-Info.plist
+lSLF07#2@34"Process PresentationApp-Info.plist332314521#332314521#0(0"0(0#0#73"/users/atul/programming/iphone/PresentationApp/PresentationApp-Info.plist8610655840#527"    cd /users/atul/programming/iphone/PresentationApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PresentationApp-Info.plist -genpkginfo /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app/Info.plist0#
+
+CProcessPCH /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch.gch PresentationApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332314522.960636
+e332314524.009873
+r1
+xProcessPCH
+x/var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch.gch
+xPresentationApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile PresentationApp_Prefix.pch332314522#332314524#0(0"0(0#0#73"/users/atul/programming/iphone/PresentationApp/PresentationApp_Prefix.pch8621932512#2025"    cd /users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -c /users/atul/programming/iphone/PresentationApp/PresentationApp_Prefix.pch -o /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-adbajoqsohctpncxaedpnjitbzqt/PresentationApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch.gch PresentationApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332312011.181478
+e332312011.990306
+r1
+xProcessPCH
+x/var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch.gch
+xPresentationApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile PresentationApp_Prefix.pch332312011#332312011#0(0"0(0#0#73"/Users/atul/programming/iphone/PresentationApp/PresentationApp_Prefix.pch8616801312#2025"    cd /Users/atul/programming/iphone/PresentationApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-generated-files.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-own-target-headers.hmap -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-all-target-headers.hmap -iquote /Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/PresentationApp-project-headers.hmap -F/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator -I/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/include -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources/i386 -I/Users/atul/programming/iphone/PresentationApp/build/PresentationApp.build/Debug-iphonesimulator/PresentationApp.build/DerivedSources -c /Users/atul/programming/iphone/PresentationApp/PresentationApp_Prefix.pch -o /var/folders/43/43bKWJj4GxCUIsD0UyAICU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/PresentationApp_Prefix-cqbqngshlovqarghnxrioitypyfi/PresentationApp_Prefix.pch.gch0#
+
+CTouch /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+s332312512.093803
+e332312512.096348
+r1
+xTouch
+x/Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+lSLF07#2@100"Touch /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app332312512#332312512#0(0"0(0#0#0"8615396448#302"    cd /Users/atul/programming/iphone/PresentationApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app0#
+
+CTouch /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+s332314524.138732
+e332314524.142500
+r1
+xTouch
+x/users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app
+lSLF07#2@100"Touch /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app332314524#332314524#0(0"0(0#0#0"8618539200#302"    cd /users/atul/programming/iphone/PresentationApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /users/atul/programming/iphone/PresentationApp/build/Debug-iphonesimulator/PresentationApp.app0#
+

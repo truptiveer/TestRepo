@@ -1,0 +1,63 @@
+TPresentationApp
+v7
+r1
+
+N/users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+c000000004E1E7A0500000000000018AD
+t1310620165
+s6317
+
+N/users/atul/programming/iphone/PresentationApp/MainWindow.xib
+c000000004E1E774D00000000000061A7
+t1310619469
+s24999
+
+N/users/atul/programming/iphone/PresentationApp/RootViewController.xib
+c000000004E1E79CE0000000000002885
+t1310620110
+s10373
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app
+t2
+s0
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app/Contents/Info.plist
+t2
+s0
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app/Contents/PkgInfo
+t2
+s0
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app/Contents/Resources/iPhoneViewController.nib
+t2
+s0
+
+NPresentationApp-Info.plist
+c000000004E1E7613000000000000038D
+t1310619155
+s909
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/Classes/iPhoneViewController.xib
+r0
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/MainWindow.xib
+r0
+
+CCompileXIB /users/atul/programming/iphone/PresentationApp/RootViewController.xib
+r0
+
+CProcessInfoPlistFile /users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app/Contents/Info.plist PresentationApp-Info.plist
+r0
+
+CTouch /users/atul/programming/iphone/PresentationApp/build/Debug/PresentationApp.app
+r0
+
